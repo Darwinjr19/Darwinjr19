@@ -9,7 +9,7 @@
 </div>
 <br><br>
 
-### 
+
 <h2>Main skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="isaque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="isaque-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="isaque-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
-###
+
 <h2>Conecte-me</h2>
 <div>
  <a href="https://www.instagram.com/ioc.off/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
