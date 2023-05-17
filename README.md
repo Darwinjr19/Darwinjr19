@@ -1,4 +1,4 @@
-## Faaaala dev, Darwin Aqui!
+## Olá, Darwin Jarandilla!
 
 <div>
   
@@ -9,6 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
+     <img align="left" height="250" alt="coding-time" src="code.gif">
    <h2>Main skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Darwin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,4 +27,4 @@
   <a href="https://www.linkedin.com/in/darwin-giovani-25a0a8226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Darwinjr19/Darwinjr19/blob/output/github-contribution-grid-snake.svg)
