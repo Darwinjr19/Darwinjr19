@@ -1,9 +1,10 @@
-## Olá, Darwin Jarandilla!
+## Oi Tudo bem? Eu sou Darwin Jarandilla 😃️
 
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Darwinjr19&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwinjr19&layout=compact&langs_count=16&theme=yeblu"/>
+   <img align="right"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darwinjr19&theme=yeblu&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 <br>
 
